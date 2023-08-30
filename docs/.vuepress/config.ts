@@ -6,7 +6,7 @@ import theme from "./theme.js";
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
-  base: "/lamp-doc/",
+  base: "/",
 
   title: "灯灯",
   description: "微服务中后台快速开发平台",
